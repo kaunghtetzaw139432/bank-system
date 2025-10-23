@@ -17,7 +17,6 @@ Additionally, the project includes **API documentation using Swagger** and **Ema
 ## Technologies Used
 - **Backend:** Java, Spring Boot, Spring Data JPA, Hibernate
 - **Database:** MySQL
-- **Frontend:** Thymeleaf
 - **Security:** Spring Security
 - **API Docs:** Swagger
 - **Email:** Spring Boot Email (JavaMailSender)
@@ -26,4 +25,4 @@ Additionally, the project includes **API documentation using Swagger** and **Ema
 ## Setup Instructions
 1. Clone this repository
    ```bash
-   git clone https://github.com/kaunghtet1020-sudo/bank-system.git
+   git clone https://github.com/kaunghtetzaw139432/bank-system.git
