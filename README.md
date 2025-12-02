@@ -6,7 +6,7 @@ This project simulates basic banking operations such as managing customers, acco
 Additionally, the project includes **API documentation using Swagger** and **Email notifications** for transaction alerts.
 
 ## Features
-- **User Management:** Register, update, and delete customer profiles
+- **User Management:** Create Account,Check account balance,Retrieve the account holder's name,Credit an amount to the user's account,Debit an amount from the user's account,Transfer funds between two accounts,Authenticate user login credentials.
 - **Account Management:** Create, view, and manage bank accounts
 - **Transactions:** Deposit, withdraw, and transfer money between accounts
 - **Security:** Role-based authentication for admin and customers

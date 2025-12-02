@@ -18,7 +18,7 @@
     <description>Demo Banking Application with Spring Boot 4.0-SNAPSHOT</description>
 
     <properties>
-        <java.version>21</java.version>
+        <java.version>17</java.version>
     </properties>
 
     <dependencies>
