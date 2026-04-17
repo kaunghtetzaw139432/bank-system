@@ -1,4 +1,4 @@
-# The Java Academy Bank System
+# 🏦 The Java Academy: Bank Management System
 
 ## Description
 A simple **Bank System Management** application built using **Spring Boot**.  
@@ -15,6 +15,21 @@ Additionally, the project includes **API documentation using Swagger** and **Ema
 A robust and secure **Banking Management System** built with **Spring Boot**, designed to handle core financial operations. This project simulates real-world banking processes, from automated email notifications to secure role-based access control.
 
 ---
+
+## 🏗 System Architecture & API Preview
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
+      <b>📊 Logical Architecture</b><br><br>
+      <img src="https://github.com/user-attachments/assets/41a0ab70-2546-4069-a49c-8ac0d2a79f4a" width="100%" alt="Logical Architecture">
+    </td>
+    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
+      <b>📖 Swagger API Documentation</b><br><br>
+      <img src="https://github.com/user-attachments/assets/67fc3333-a94a-4008-b1d5-eb32c654ad1a" width="100%" alt="Swagger UI">
+    </td>
+  </tr>
+</table>
 
 ## 🌟 Key Features
 
