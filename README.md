@@ -25,7 +25,7 @@ A robust and secure **Banking Management System** built with **Spring Boot**, de
       <img src="https://github.com/user-attachments/assets/41a0ab70-2546-4069-a49c-8ac0d2a79f4a" width="100%" alt="Logical Architecture">
     </td>
     <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
-      <b>>📊 SCHEMA </b><br><br>
+      <b>📊 SCHEMA </b><br><br>
       <img src="https://github.com/user-attachments/assets/67fc3333-a94a-4008-b1d5-eb32c654ad1a" width="100%" alt="Swagger UI">
     </td>
   </tr>
